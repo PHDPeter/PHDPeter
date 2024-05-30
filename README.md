@@ -15,9 +15,10 @@ Skills:
 - Deep Learning
 - Computer Vision
 - Machine Learning
+- Graph Theory
 - Complex Systems
 - Evolutionary Computation
-- Programming Languages (Python, C# , C++, Java)
+- Programming Languages (Python, Matlab, SQL, C# , C++, Java)
 
 ## Connect with me:
 
