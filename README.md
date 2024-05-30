@@ -1,7 +1,7 @@
 # Dr Peter Charles Overbury
-## Computer Vision & Machine Learning Researcher
+## Head of artificial intelligence at [Zircon](https://zirconsoftware.co.uk/), Interested in GNN,  graph neural networks (GNN), Computer Vision (CV) and Evolutionary Algorithms (EA), particularly Genetic Algorithms (GA) method involved in illumination algorithms (the focus of my last PhD).
 
-I am a passionate researcher with expertise in computer vision, machine learning, and complex systems. My research interests lie in exploring diversity in complex spaces and applying machine-learning techniques to real-world problems.
+I run a small team at Zircon focused on providing state-of-the-art solutions to safety critical problems in a wide range of applications. I am also a passionate researcher with computer vision, machine learning, and complex systems expertise.
 
 ## Experience:
 
